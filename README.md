@@ -1,1 +1,1 @@
-https://coinmap-it.github.io/data-overpass-bitcoin.json
+Here is the source of CoinMap.it
