@@ -1,1 +1,1 @@
-Here is the source of CoinMap.it
+This page is the data source of [CoinMap.it](https://www.coinmap.it)
